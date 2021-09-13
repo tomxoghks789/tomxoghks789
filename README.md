@@ -9,3 +9,5 @@
 ### IDE
 <img src="https://img.shields.io/badge/-Android Studio-3DDC84?logo=androidstudio"> <img src="https://img.shields.io/badge/-Eclipse-2C2255?logo=eclipseide"> <img src="https://img.shields.io/badge/-Visual Studio-5C2D91?logo=visualstudio"> <img src="https://img.shields.io/badge/-Visual Studio Code-007ACC?logo=visualstudiocode">
 <img src="https://img.shields.io/badge/-IntelliJ-000000?logo=intellijidea"> <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter">
+
+## 👍Paper & Patent
