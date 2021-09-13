@@ -4,5 +4,8 @@
 ## 👍Skills
 ### Language & Platform
 <img src="https://img.shields.io/badge/-Android-3DDC84?logo=android"> <img src="https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin"> <img src="https://img.shields.io/badge/-Java-007396?logo=java"> <img src="https://img.shields.io/badge/-Python-3776AB?logo=python"> <img src="https://img.shields.io/badge/-Keras-D00000?logo=keras"> <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow"> <img src="https://img.shields.io/badge/-Arduino-00979D?logo=arduino">
-<img src="https://img.shields.io/badge/-Raspberry Pi-A22846?logo=raspberrypi"> <img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu">
-<img src="https://img.shields.io/badge/-Java-007396?logo=java">
+<img src="https://img.shields.io/badge/-Raspberry Pi-A22846?logo=raspberrypi"> <img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu"> <img src="https://img.shields.io/badge/-C Sharp-239120?logo=csharp">
+
+### IDE
+<img src="https://img.shields.io/badge/-Android Studio-3DDC84?logo=androidstudio"> <img src="https://img.shields.io/badge/-Eclipse-2C2255?logo=eclipseide"> <img src="https://img.shields.io/badge/-Visual Studio-5C2D91?logo=visualstudio"> <img src="https://img.shields.io/badge/-Visual Studio Code-007ACC?logo=visualstudiocode">
+<img src="https://img.shields.io/badge/-IntelliJ-000000?logo=intellijidea">
