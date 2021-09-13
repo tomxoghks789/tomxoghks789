@@ -17,10 +17,14 @@ Android, IoT and AI (GAN, Image classification and etc..)
 <img src="https://img.shields.io/badge/-IntelliJ-000000?logo=intellijidea"> <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter">
 
 ## 🏆Paper & Patent
+// SCI 3편
+// 특허 2
 
 ## 🙏Output
+// MBC 앱 개편
 
 ## 🌎Travel experience
+🇳🇿 🇻🇳 🇨🇳
 
 ## 📜Education
 #### M.S.(2018/03~2020/02), Computer Science, Incheon National Univ., Republic of Korea  
