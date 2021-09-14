@@ -21,7 +21,7 @@ Android, IoT and AI (GAN, Image classification and etc..)
 // 특허 2
 
 ## 🙏Output
-// MBC 앱 개편
+[1. MBC앱](https://github.com/tomxoghks789/MBC_App_Android)
 
 ## 🌎Travel experience
 🇳🇿 🇻🇳 🇨🇳
