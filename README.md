@@ -7,7 +7,7 @@
 - Incheon National Univ. - *Master degree of Computer Science and Engineering*
 
 ## 📱Work for
-- <a href="https://www.imbc.com">iMBC</a> - Android developer (22.04 ~ ing)
+- <a href="https://www.imbc.com">iMBC</a> - Android developer (21.04 ~ ing)
 
 ## 📌What i can do
 - Android
